@@ -49,6 +49,7 @@
 		F40E6D781C607245000548B9 /* pruebaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pruebaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F40E6D7C1C607245000548B9 /* pruebaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pruebaUITests.swift; sourceTree = "<group>"; };
 		F40E6D7E1C607245000548B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F40E6D8A1C607467000548B9 /* JuegoDeMemoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = JuegoDeMemoria.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +84,7 @@
 				F40E6D701C607245000548B9 /* pruebaTests */,
 				F40E6D7B1C607245000548B9 /* pruebaUITests */,
 				F40E6D581C607245000548B9 /* Products */,
+				F40E6D8A1C607467000548B9 /* JuegoDeMemoria.playground */,
 			);
 			sourceTree = "<group>";
 		};
